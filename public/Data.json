@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering Coding: A Complete Guidens and Treatment",
+    "cover": "https://i.ibb.co.com/CWXN6W8/1.jpg",
+    "auth_name": "John Doe",
+    "auth_img": "https://i.ibb.co.com/x526Jp7/boy1.png",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": 5,
+    "hashtags": ["#tech", "#coding"]
+  },
+  {
+    "id": 2,
+    "title": "10 Tips for a Healthier Lifestyle & Smartness",
+    "cover": "https://i.ibb.co.com/ZB5Jvmj/2.png",
+    "auth_name": "Jane Smith",
+    "auth_img": "https://i.ibb.co.com/6JpjxVr/boy2.jpg",
+    "posted_date": "Mar 10 (8 Days ago)",
+    "reading_time": 10,
+    "hashtags": ["#health", "#wellness"]
+  },
+  {
+    "id": 3,
+    "title": "The Basics of UX and UI Designers & Developers",
+    "cover": "https://i.ibb.co.com/kqHyLxd/3.png",
+    "auth_name": "Alice Johnson",
+    "auth_img": "https://i.ibb.co.com/ZmsKpsg/girl1.jpg",
+    "posted_date": "Mar 7 (11 Days ago)",
+    "reading_time": 12,
+    "hashtags": ["#design", "#ux"]
+  },
+  {
+    "id": 4,
+    "title": "Current Events: Stay Informed Programmer",
+    "cover": "https://i.ibb.co.com/RNtgWQw/4.jpg",
+    "auth_name": "Bob Williams",
+    "auth_img": "https://i.ibb.co.com/8N9Lmsw/girl2.jpg",
+    "posted_date": "Mar 1 (17 Days ago)",
+    "reading_time": 8,
+    "hashtags": ["#news", "#world"]
+  }
+]
